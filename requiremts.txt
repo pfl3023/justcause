@@ -1,0 +1,6 @@
+PyPDF2
+re
+pandas 
+numpy
+pandas.io.sql 
+os
